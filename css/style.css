@@ -515,7 +515,7 @@ body {
   }
 }
 
-.menu-open .menu__body {
+.menu-open .scroll-header .menu__body {
   top: 0;
 }
 
