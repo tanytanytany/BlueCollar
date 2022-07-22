@@ -503,7 +503,7 @@ body {
     top: -100%;
     left: 0;
     width: 100%;
-    padding: 3.75rem 0.9375rem;
+    padding: 6.25rem 0.9375rem 2.5rem 0.9375rem;
     background: #000;
     height: 100%;
     overflow: auto;
@@ -521,7 +521,7 @@ body {
 
 .header {
   position: relative;
-  z-index: 5;
+  z-index: 7;
 }
 .header__top {
   background: #f2f2f2;
