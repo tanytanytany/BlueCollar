@@ -221,7 +221,7 @@ h6 {
 }
 @media (any-hover: hover) {
   .button:hover {
-    background-color: #cd8519;
+    background-color: #ff8204;
   }
 }
 .button._fw {
